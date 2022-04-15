@@ -1,0 +1,25 @@
+{
+  "name": "curso-fresco-npm",
+  "version": "1.0.0",
+  "description": "Paquete del curso npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "eco"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mbravod/curso-fresco-npm.git"
+  },
+  "keywords": [
+    "curso",
+    "fresco",
+    "npm",
+    "package"
+  ],
+  "author": "Martin Alberto Bravo Duenas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mbravod/curso-fresco-npm/issues"
+  },
+  "homepage": "https://github.com/mbravod/curso-fresco-npm#readme"
+}
